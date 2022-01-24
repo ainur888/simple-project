@@ -1,0 +1,68 @@
+.nav{
+    background: yellow;
+    padding: 16px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+ul li{
+    display: inline-block;
+    padding: 16px 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(43, 41, 41);
+    border-right: 3px solid black;
+    padding: 5px;
+    margin-left: 2px;
+}
+ul li:hover{
+    background: lime;
+    border-radius: 15px;
+}
+ul li:hover a{
+    color: white;
+}
+a .btn{
+    background: rgb(231, 214, 214);
+    color: black;
+    padding: 8px;
+}
+.mar1{
+    display: inline-block;
+    margin-left: 20px;
+}
+.side1{
+    float: left;
+}
+.side2{
+    float: right;
+    
+}
+.side2 img{
+    width: 250px;
+    height: 200px;
+    margin: 30px 20px;
+}
+.photo1{
+    width:100px;
+    height: 0px;
+}
+.photo1 img{
+    width: 100%;
+}
+nav img{
+    width: 140px;
+}
+.imglogo{
+    width: 100px;
+    height: 80;
+    position: absolute;
+}
+.imglogo img{
+    width: 75px;
+    margin: 3px 34px; 
+}
+  
